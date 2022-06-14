@@ -5,6 +5,7 @@ string[] creatArray(string description)
     Console.WriteLine(description);
     string help = string.Empty; 
     help = Console.ReadLine();
+    help = string.Join(" ", help.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries));
     string[] array = help.Split(" ");
     return array;
 }
@@ -49,4 +50,4 @@ string Print(string[] array)
 
 
 //string[] arr = { "as", "as", "13f", "adko;ok;", "4o;k;o", "aggf" };
-Console.WriteLine(Print(solveEx(creatArray("Введите строки в массив, если закончили оставьте поле пустым"))));
+Console.WriteLine(Print(solveEx(creatArray("Введите строки в массив через пробел"))));
