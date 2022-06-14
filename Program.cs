@@ -1,15 +1,14 @@
-﻿/*
-string[] creatArray()
+﻿
+string[] creatArray(string description)
 {
-    string help = string.Empty;
-
-
-
-
+    
+    Console.WriteLine(description);
+    string help = string.Empty; 
+    help = Console.ReadLine();
     string[] array = help.Split(" ");
     return array;
 }
-*/
+
 string[] solveEx(string[] array)
 {
     string help = string.Empty;
@@ -20,7 +19,7 @@ string[] solveEx(string[] array)
             help += array[i] + " ";
         }
     }
-    help = help.Remove(help.Length - 1, "|").Insert(help.Length - 1, "");
+    help = help.TrimEnd(' ');
     string[] result = help.Split(" ");
     return result;
 }
@@ -29,24 +28,18 @@ string Print(string[] array)
 {
     string forPrint = string.Empty;
     forPrint += "[";
-    if (0 == array.Length)
+    if (array[0] == "")
     {
-      forPrint += " Array is empty ";
+        forPrint += " Array is empty ";
+        
     }
     else
     {
         for (int i = 0; i < array.Length; i++)
         {
-            if (i == array.Length - 1)
-            {
-                forPrint += array[i];
-            }
-            else
-            {
-                forPrint += array[i] + " ";
-            }
+            forPrint += array[i] + ", ";
         }
-
+        forPrint = forPrint.TrimEnd(',',' ');
     }
     forPrint += "]";
     return forPrint;
@@ -55,6 +48,5 @@ string Print(string[] array)
 
 
 
-string[] arr = { "asd", "asdf", "1344", "adjksh", "2534", "aggg" };
-Console.WriteLine(Print(solveEx(arr)));
-
+//string[] arr = { "as", "as", "13f", "adko;ok;", "4o;k;o", "aggf" };
+Console.WriteLine(Print(solveEx(creatArray("Введите строки в массив, если закончили оставьте поле пустым"))));
