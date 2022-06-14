@@ -1,0 +1,15 @@
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\bin\Debug\net6.0\draft.exe
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\bin\Debug\net6.0\draft.deps.json
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\bin\Debug\net6.0\draft.runtimeconfig.json
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\bin\Debug\net6.0\draft.dll
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\bin\Debug\net6.0\draft.pdb
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\draft.csproj.AssemblyReference.cache
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\draft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\draft.AssemblyInfoInputs.cache
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\draft.AssemblyInfo.cs
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\draft.csproj.CoreCompileInputs.cache
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\draft.dll
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\refint\draft.dll
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\draft.pdb
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\draft.genruntimeconfig.cache
+C:\Users\Pengsaur\Desktop\Учеба\Программирование\D. Знакомство с языками программирования\PracticalWork\draft\obj\Debug\net6.0\ref\draft.dll
